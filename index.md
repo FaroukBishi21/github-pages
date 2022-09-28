@@ -1,4 +1,4 @@
 ---
 title: This is my blog
 ---
-date: 09-28-2022
+Description: This is my example blog for the assignment
