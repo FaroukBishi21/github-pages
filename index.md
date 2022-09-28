@@ -1,5 +1,4 @@
 ---
 title: This is my blog
 ---
-background color: red
-font: comic sans
+date: 09-28-2022
